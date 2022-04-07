@@ -42,7 +42,7 @@ class person {
     }
 }
 
-const person_obj = new person("Jonathan", "Pannerselvam", "Male", "26", "Chennai", "8825801647", "jonathan16official@gmail.com",
+const person_obj = new person("Jonathan", "Pannerselvam", "Male", "26", "Chennai", "1234567890", "jonathan16official@gmail.com",
     "BCA", "DB Jain Collage");
 console.log(person_obj.person_name());
 console.log(person_obj.person_father_name());
